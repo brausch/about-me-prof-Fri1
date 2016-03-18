@@ -24,6 +24,50 @@ h2 {
   text-align: center;
   color: #656564;
 }
+
+h4 {
+  font-family: 'Bree Serif', serif;
+  font-size: 40px;
+  text-align: center;
+  color: #656564;
+  padding-top: 10px;
+}
+
+.why {
+  display: block;
+  width: 500px;
+  text-align: center;
+  margin-left: 250px;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+h5 {
+  font-size: 30px;
+}
+
+.quest {
+  padding-top: 30px;
+  font-size: 25px;
+}
+
+.aside-was {
+  font-family: 'Bree Serif', serif;
+  font-size: 20px;
+  text-align: center;
+  color: #656564;
+  padding-top: 10px;
+}
+
+
+h5 {
+  font-family: 'Bree Serif', serif;
+  font-size: 20px;
+  text-align: center;
+  color: #656564;
+  padding-bottom: 10px;
+}
+
 .header-bck {
   background-color: #def6ef;
 }
